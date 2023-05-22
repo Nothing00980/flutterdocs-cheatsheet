@@ -5,24 +5,23 @@ Welcome to the Flutter Docs and Cheat Sheet repository! This repository is desig
 ## Contents
 
 - [Introduction](#introduction)
-Get started with flutter [Getstarted](https://docs.flutter.dev/get-started/install)
+
 
 
 - [Documentation](#documentation)
-[docs](https://docs.flutter.dev/)
 
 
 <!-- - [Cheat Sheet](#cheat-sheet) -->
 
 
 - [Contributing](#contributing)
-Self experienced flutter notes.
 
 - [License](#license)
 
 ## Introduction
 
 In this repository, you will find extensive documentation on Flutter, including guides, tutorials, and reference materials. Whether you're a beginner looking to get started or an experienced developer seeking advanced topics, we've got you covered.
+Get started with flutter [Getstarted](https://docs.flutter.dev/get-started/install)
 
 ## Documentation
 
